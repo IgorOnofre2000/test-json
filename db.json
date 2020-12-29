@@ -1,0 +1,24 @@
+{
+  "config": [
+    { "KEY": "123", "SERVICE": "VENTAS1", "ISSUE": "CELLPHONE1", "DATA1" : "AVAYA1", "CUSTOMERID" : "4444", "ELEMENTID" : "5678" },
+    { "KEY": "234", "SERVICE": "VENTAS2", "ISSUE": "CELLPHONE2", "DATA1" : "AVAYA2", "CUSTOMERID" : "7777", "ELEMENTID" : "9876" },
+    { "KEY": "321", "SERVICE": "VENTAS3", "ISSUE": "CELLPHONE3", "DATA1" : "AVAYA3" },
+    { "KEY": "414", "SERVICE": "VENTAS2", "ISSUE": "", "DATA1" : "", "CUSTOMERID" : "", "ELEMENTID" : "" },
+    { "KEY": "555", "ISSUE": "", "DATA1" : "", "CUSTOMERID" : "", "ELEMENTID" : "" }
+  ],
+  
+  "rs1":{
+    "clientid":"54321",
+    "data2":"MIDIAVOX"
+  },
+  
+  "rs2":{
+    "numerocuenta":"2234",
+    "data3":"LAJEDO"
+  },
+  
+  "rs3":{
+    "newtest":"5555",
+    "data4":"RECIFE"
+  }
+}
