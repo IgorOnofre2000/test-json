@@ -17,11 +17,6 @@
     "data3":"LAJEDO"
   },
   
-  "rs3":{
-    "newtest":"5555",
-    "data4":"RECIFE"
-  },
-  
   "data_final": {
     "data": {
       "opcion_desborde": "RES_Otros",
