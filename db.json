@@ -12,11 +12,6 @@
     "data2":"MIDIAVOX"
   },
   
-  "rs2":{
-    "numerocuenta":"2234",
-    "data3":"LAJEDO"
-  },
-  
   "data_final": {
     "data": {
       "opcion_desborde": "RES_Otros",
