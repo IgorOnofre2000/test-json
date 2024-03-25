@@ -66,6 +66,10 @@
           "prepago": "true",
           "pospago": "false"
         },
+        "telefono": {
+          "telefono_fijo": "98765432",
+          "telefono_negocios": "14785296"
+        },
         "agentes": [
           "agente1", "agente2", "agente3", "agente4", "agente5"
         ]
