@@ -62,6 +62,10 @@
         "nombre": "Qwerty",
         "celular": "11223344",
         "correo": "qwerty@gmail.com",
+        "plan ": {
+          "prepago": "true",
+          "pospago": "false"
+        },
         "agentes": [
           "agente1", "agente2", "agente3", "agente4", "agente5"
         ]
