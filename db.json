@@ -62,7 +62,7 @@
         "nombre": "Qwerty",
         "celular": "11223344",
         "correo": "qwerty@gmail.com",
-        "plan ": {
+        "plan": {
           "prepago": "true",
           "pospago": "false"
         },
