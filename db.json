@@ -58,12 +58,15 @@
       "Numero_Desborde": "64328746",
       "conversation_id": "8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
       "ultima_interaccion": 1,
+      "llamada": {
+        "nombre": "Qwerty",
+        "celular": "11223344",
+        "correo": "qwerty@gmail.com",
+        "agentes": [
+          "agente1", "agente2", "agente3", "agente4", "agente5"
+        ]
+      },
       "contexto_voz": {
-        "pulso": "",
-        "correo": "",
-        "nombre": "",
-        "celular": "",
-        "tipo_linea": "",
         "tipo_servicio": "",
         "codigo_paquete": "",
         "conversation_id": "8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
@@ -73,10 +76,7 @@
         "motivo_transferencia": "SOPORTE",
         "conversacion_watson": [
           "Cliente: vgwNoInputTurn",
-          "Watson: Espera un momento por favor, voy a transferirte con un ejecutivo para que continúe apoyándote.",
-          "Cliente: vgwNoInputTurn",
-          "Cliente: quiero hablar con un humano",
-          "Watson: Gracias, para darte un mejor servicio por favor dime brevemente ¿Qué movimiento deseas realizar?"
+          "Watson: Espera un momento por favor, voy a transferirte con un ejecutivo para que continúe apoyándote."
         ]
       }
     }
