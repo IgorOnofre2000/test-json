@@ -68,7 +68,11 @@
         },
         "telefono": {
           "telefono_fijo": "98765432",
-          "telefono_negocios": "14785296"
+          "telefono_negocios": {
+            "tel_1": "11111111",
+            "tel_2": "22222222",
+            "tel_3": "33333333"
+          }
         },
         "agentes": [
           "agente1", "agente2", "agente3", "agente4", "agente5"
